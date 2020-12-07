@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\AulaPOO_Heranca.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\AulaPOO_Heranca.genruntimeconfig.cache
