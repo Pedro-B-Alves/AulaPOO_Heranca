@@ -32,7 +32,7 @@ namespace AulaPOO_Heranca
                         bool cpf = pf.ValidarCPF(pf.cpf);
                         if (cpf == true)
                         {
-                            Console.WriteLine("O seu CPF é válido");
+                            Console.WriteLine("O seu CPF é valido");
                         }else{
                             Console.WriteLine("O seu CPF é inválido");  
                         }
@@ -45,7 +45,7 @@ namespace AulaPOO_Heranca
                         bool cnpj = pj.ValidarCNPJ(pj.cnpj);
                         if (cnpj == true)
                         {
-                            Console.WriteLine("O seu CNPJ é válido");
+                            Console.WriteLine("O seu CNPJ é valido");
                         }else{
                             Console.WriteLine("O seu CNPJ é inválido");  
                         }
